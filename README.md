@@ -16,16 +16,19 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 - [http://noproblo.dayjo.org/ZeldaSounds/](http://noproblo.dayjo.org/ZeldaSounds/)
 - [http://zeldauniverse.net/media/music/](http://zeldauniverse.net/media/music/)
 
+---
+
 ## Watch the Game
 
-Full YouTube demo by @mhueter _with only a couple instances of god-mode cheating_ :sweat_smile: 
+**Full YouTube demo by @mhueter** _with only a couple instances of god-mode cheating_ :sweat_smile: 
 
 [https://youtu.be/LlmWZPMOlJE](https://youtu.be/LlmWZPMOlJE)
 
+---
 
 ## Play the Game 
 
-Download the zip/executable by clicking on **Releases** in this repo. Currently only the Windows version is available.
+Download the zip/executable by [clicking on Releases](https://github.com/mhueter/legend-of-z/releases) in this repo. Currently only the Windows version is available.
 _Note: Ignore the antivirus warning when you click the .exe_.
 
 ## Gameplay
@@ -44,6 +47,7 @@ _Note: Ignore the antivirus warning when you click the .exe_.
 
 ![Z Game Map](https://raw.githubusercontent.com/mhueter/legend-of-z/master/map.png)
 
+---
 
 ## Disclaimer
 
