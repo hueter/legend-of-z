@@ -12,9 +12,9 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 
 **Here are the sources of most our assets:**
 
-[http://opengameart.org/](http://opengameart.org/)
-[http://noproblo.dayjo.org/ZeldaSounds/](http://noproblo.dayjo.org/ZeldaSounds/)
-[http://zeldauniverse.net/media/music/](http://zeldauniverse.net/media/music/)
+- [http://opengameart.org/](http://opengameart.org/)
+- [http://noproblo.dayjo.org/ZeldaSounds/](http://noproblo.dayjo.org/ZeldaSounds/)
+- [http://zeldauniverse.net/media/music/](http://zeldauniverse.net/media/music/)
 
 ## Watch the Game
 
