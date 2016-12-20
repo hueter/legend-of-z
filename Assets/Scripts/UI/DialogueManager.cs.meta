@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 79eab5bbce76ea14288682661e403e4e
+timeCreated: 1480487725
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DialogueBox: {instanceID: 0}
+  - DialogueName: {instanceID: 0}
+  - DialogueText: {instanceID: 0}
+  - Npc: {instanceID: 0}
+  - DialogueNextSound: {fileID: 8300000, guid: e520f951a491aee43a92c9b9c88e2978, type: 3}
+  - DialogueDoneSound: {fileID: 8300000, guid: fd6a5e5296dd0174983a8fd7b88ede85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

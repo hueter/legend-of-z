@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51affc8a29b845e47ba557b173c2502a
+timeCreated: 1480186702
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DamageBox: {fileID: 1000011867192564, guid: 48644344b4e320542b4051c6fcc733e8,
+      type: 2}
+  - Arrow: {fileID: 50000011862812148, guid: a011570e01222dc418ef240888ffcf1d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

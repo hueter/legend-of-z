@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a3a7deaf312e60a45ae45aa275a4b9d1
+timeCreated: 1479761010
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CharacterAnimator: {instanceID: 0}
+  - DieSound: {instanceID: 0}
+  - hudItem: {instanceID: 0}
+  - SwordAttackSound: {instanceID: 0}
+  - GetItem: {fileID: 8300000, guid: 45b02ce3acd0b71408294561a516ee72, type: 3}
+  - GetHitSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
