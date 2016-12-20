@@ -15,6 +15,7 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 - [http://opengameart.org/](http://opengameart.org/)
 - [http://noproblo.dayjo.org/ZeldaSounds/](http://noproblo.dayjo.org/ZeldaSounds/)
 - [http://zeldauniverse.net/media/music/](http://zeldauniverse.net/media/music/)
+- [https://www.spriters-resource.com/snes/legendofzeldaalinktothepast/](https://www.spriters-resource.com/snes/legendofzeldaalinktothepast/)
 
 ---
 
