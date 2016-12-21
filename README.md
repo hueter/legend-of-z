@@ -48,6 +48,7 @@ Download the zip of your choice under [Releases](https://github.com/mhueter/lege
 - **left ctrl** = bow attack
 - **z** = plant bomb
 - **g** = god mode (full health, take no damage)
+- **Alt F4 or Command Q (OSX)** = Quit the game (while in-game)
 
 #### Map of the Game
 
