@@ -29,8 +29,13 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 
 ## Play the Game 
 
-Download the zip/executable by [clicking on Releases](https://github.com/mhueter/legend-of-z/releases) in this repo. Currently only the Windows version is available.
-_Note: Ignore the antivirus warning when you click the .exe_.
+Download the zip of your choice under [Releases](https://github.com/mhueter/legend-of-z/releases) in this repo. 
+
+**Notes:** 
+
+1. Ignore the antivirus warning when you open the executable.
+2. The OSX version is basically in Beta, because the run speed of Link is a bit buggy (probably due to differences in delta T calculations on OS clocks).
+
 
 ## Gameplay
 
