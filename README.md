@@ -21,7 +21,7 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 
 ## Watch the Game
 
-**Full YouTube demo by [@mhueter](https://github.com/mhueter)** _with only a couple instances of god-mode cheating_ :sweat_smile: 
+**Full YouTube demo by [@hueter](https://github.com/hueter)** _with only a couple instances of god-mode cheating_ :sweat_smile: 
 
 [https://youtu.be/LlmWZPMOlJE](https://youtu.be/LlmWZPMOlJE)
 
@@ -29,7 +29,7 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 
 ## Play the Game 
 
-Download the zip of your choice under [Releases](https://github.com/mhueter/legend-of-z/releases) in this repo. 
+Download the zip of your choice under [Releases](https://github.com/hueter/legend-of-z/releases) in this repo. 
 
 **Notes:** 
 
@@ -52,7 +52,7 @@ Download the zip of your choice under [Releases](https://github.com/mhueter/lege
 
 #### Map of the Game
 
-![Z Game Map](https://raw.githubusercontent.com/mhueter/legend-of-z/master/map.png)
+![Z Game Map](https://raw.githubusercontent.com/hueter/legend-of-z/master/map.png)
 
 ---
 
