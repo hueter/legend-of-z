@@ -3,7 +3,7 @@
 ## Background
 
 This game was built as a final project for **Oregon State University CS 419 - Software Projects**.
-It was built by **Ellard Gerritsen van der Hoop** [@Ellard24](https://github.com/ellard24), **Michael Hueter** [@mhueter](https://github.com/mhueter), and **Peter Murphy** [@murphpet](https://github.com/murphpet). None of us had any game development experience.
+It was built by **Ellard Gerritsen van der Hoop** [@Ellard24](https://github.com/ellard24), **Michael Hueter** [@hueter](https://github.com/hueter), and **Peter Murphy** [@murphpet](https://github.com/murphpet). None of us had any game development experience.
 
 We built this in 10 weeks (from September to December 2016) using [Unity3d](https://unity3d.com/). The scripts are all written in C#.
 
